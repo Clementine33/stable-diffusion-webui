@@ -1,0 +1,8 @@
+﻿name,prompt,negative_prompt
+minimum negative(By Orange),,"(worst quality, low quality:1.4)"
+negative(By pastel),,"lowres, ((bad anatomy)), ((bad hands)), text, missing finger, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts))"
+basic negative(By Orange),,"nsfw, (worst quality, low quality:1.4), (realistic, lip, nose, tooth, rouge, lipstick, eyeshadow:1.0), (dusty sunbeams:1.0),, (abs, muscular, rib:1.0), (depth of field, bokeh, blurry:1.4),(motion lines, motion blur:1.4), (greyscale, monochrome:1.0), text, title, logo, signature"
+povSquatting,"1boy, penis, squatting cowgirl position, vaginal, pov, <lora:povSquattingCowgirlLora_pscowgirl:0.9>",
+keqing(Lora),"1girl, <lora:keqingGenshinImpact_10:0.6>,keqing \(genshin impact\),twintail, purple hair",
+povImminentPenetration,"1boy, penis, imminent penetration, lying, on back, spread legs, <lora:povImminentPenetration_ipv1:0.9>",
+ahegao,"rolling eyes, ahegao, tongue out, drooling, saliva,sweat, <lora:ahegao_v1:0.6>",

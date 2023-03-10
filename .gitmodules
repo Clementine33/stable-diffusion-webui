@@ -1,0 +1,12 @@
+[submodule "extensions/sd-webui-additional-networks"]
+	path = extensions/sd-webui-additional-networks
+	url = https://github.com/kohya-ss/sd-webui-additional-networks.git
+[submodule "extensions/a1111-sd-webui-tagcomplete"]
+	path = extensions/a1111-sd-webui-tagcomplete
+	url = https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git
+[submodule "extensions/stable-diffusion-webui-images-browser"]
+	path = extensions/stable-diffusion-webui-images-browser
+	url = https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git
+[submodule "extensions/sd-webui-controlnet"]
+	path = extensions/sd-webui-controlnet
+	url = https://github.com/Mikubill/sd-webui-controlnet.git
